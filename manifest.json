@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Goodreads → Obsidian (Robust)",
+  "version": "2.0",
+  "description": "Scrape Goodreads book info and import to Obsidian.",
+  "permissions": ["activeTab", "scripting", "tabs"],
+  "host_permissions": ["*://*.goodreads.com/*"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Goodreads → Obsidian"
+  }
+}
+
