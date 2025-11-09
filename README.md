@@ -4,8 +4,7 @@
 Save book info from Goodreads and import them to Obsidian.  
 
 If you already have [bookshelf plugin](https://obsidian.md/plugins?id=bookshelf) in Obsidian,
-And then you want to improve the way you manage your book collection,  
-You might like this extension because it helps you get book info from Goodreads site easily.  
+And then you want to improve the way you manage your book collection, you might like this extension because it helps you get book info from Goodreads site easily.  
 
 <pre>
 Disclaimer!
@@ -43,14 +42,18 @@ After installation:
    </p>
 4. You can click Import to Obsidian for directly insert to Books/{{book's title}}, or you can choose Download .md and place the file to the path you want, or simply type in input field in the menu to directly insert into your current vault.
 5. fill `pdf: ` field with `[[your-book.pdf]]`
+
 ---
-**Addition:**  
-  
-If you want open your pdf file directly in **Bookshelf Library tab** when you click book's details link icon,  
-You might interested custom obsidian plugin for this feature.  
-So you could read your pdf directly without looking for your pdf location manually in Obsidian's left menu.  
-  
-check this out -> [Bookshelf-book-details-open-pdf-plugin](https://github.com/dwirachmatputra)
+## Additional
 <p>
   <img width="423" height="242" alt="Capture" src="https://github.com/user-attachments/assets/fe1920b9-e6ee-4a12-9b26-4a30f7594201" />
-</p>
+</p>  
+  
+So, if you notice when you use Bookshelf Plugin that there is no direct way to open your pdf file in Bookshelf library tab. If you click button link in book details pop up, it will open your-book.md file, not the pdf file. You need to setup ``[[yourPdfName]]`` or ``![[yourPdfName]]``first in order to open your pdf file or searching the file on your directory to find the book manually.
+
+If you want to save your time and open your pdf file directly when you click book's details link icon.  
+You might interested custom obsidian plugin for this feature.
+This plugin helps you open the PDF file when you click link button. 
+  
+Check this out -> [Bookshelf-book-details-open-pdf-plugin](https://github.com/dwirachmatputra)
+
