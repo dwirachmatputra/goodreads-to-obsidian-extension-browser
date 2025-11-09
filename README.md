@@ -55,5 +55,5 @@ If you want to save your time and open your pdf file directly when you click boo
 You might interested custom obsidian plugin for this feature.
 This plugin helps you open the PDF file when you click link button. 
   
-Check this out -> [Bookshelf-book-details-open-pdf-plugin](https://github.com/dwirachmatputra)
+Check this out -> [bookshelf-open-pdf](https://github.com/dwirachmatputra/bookshelf-open-pdf)
 
