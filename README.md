@@ -15,7 +15,7 @@ This is the way you save book's info easily.
 ## Installation
 
 **Chrome / Brave /Edge:**
-1. Download the latest packaged release (`.zip`) from the [Releases](https://github.com/dwirachmatputra/goodreads-to-obsidian-extension-browser/releases/tag/v.0.1.0) section.
+1. Download the latest release (`.zip`) from the [Releases](https://github.com/dwirachmatputra/goodreads-to-obsidian-extension-browser/releases/tag/v.0.1.0) section.
 2. Navigate to 
 	for Google chrome
 	`chrome://extensions/` 
